@@ -1,9 +1,9 @@
 {
-  "name": "iplace",
+  "name": "ipoint",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tanishafre.github.io/iplace/",
+  "homepage": "https://tanishafre.github.io/ipoint/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
